@@ -107,7 +107,4 @@ theme: melody
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repo: https://github.com/yyfleo/yyfleo.github.io.git
-  branch: master
-
+  type: ''

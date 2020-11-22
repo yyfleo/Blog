@@ -1,4 +1,0 @@
-[submodule "old"]
-    path = old
-    url = https://github.com/yyfleo/yyfleo.github.io.git
-    branch = old
